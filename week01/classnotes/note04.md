@@ -136,6 +136,17 @@ Please enter your favorite number: 42
 Brother Burton, the square of your number is 1764
 ```
 
-Write and Test the program
+## Write and Test the program
 Write and test the program as described above.
 Make sure to use the same project template that you did for the previous activities. However, this time, you should add your code in Program.cs file in the the Exercise5 project.
+
+## Sample Solution
+When you have finished the program, please compare your approach to the one from this sample solution:
+
+C# Programming Exercise 05 Sample Solution
+
+## Getting Help
+If you get stuck, please ask questions in MS Teams.
+
+## Submitting
+Return to Canvas and complete the corresponding quiz.

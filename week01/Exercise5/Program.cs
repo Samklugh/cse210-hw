@@ -18,6 +18,8 @@ class Program
 
 
         static void DisplayMessage()
+
+        // staic is used to indicate that the method belongs to the class itself rather than an instance of the class. This allows us to call the method without creating an object of the class.
         {
             Console.WriteLine("Welcome to the program!");
 

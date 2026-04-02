@@ -18,6 +18,7 @@ public class PromptGenerator
     {
         Random random = new Random();
         int index = random.Next(_prompts.Count);
+        // this will generate a random index between 0 and the number of prompts in the list. The Next method of the Random class is used to generate a random integer, and we pass the count of prompts as the upper limit to ensure we get a valid index. Finally, we return the prompt at the randomly generated index from the _prompts list.
 
         return _prompts[index];
     }
