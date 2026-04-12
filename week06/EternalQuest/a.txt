@@ -1,0 +1,4 @@
+130
+SimpleGoal|do BYU homework|BYU|30|True
+EternalGoal|read bible daily|bible|50
+ChecklistGoal|ensure all job tasks are done|job|20|10|2|2
